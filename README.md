@@ -32,7 +32,7 @@
 ---
 
 ### 📫 Connect with Me
-- [LinkedIn]([your_link_here](https://www.linkedin.com/in/alyymahmoud/))  
+- [LinkedIn]((https://www.linkedin.com/in/alyymahmoud/))  
 - Email: **your.email@example.com**  
 
 ---
