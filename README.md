@@ -12,9 +12,9 @@
 ---
 
 ### 🚀 Featured Projects
-- [Stroke Prediction](https://github.com/AlyModrik41/Stroke-Prediction): Developed a classification model using **SMOTE + Random Forest** on medical data.
-- [Student Performance Predictor](https://github.com/AlyModrik41/Student-Performance-Predictor): Built a **regression model** to predict student grades based on demographic and study-related features.  
-- [UCI-Disease](https://github.com/AlyModrik41/UCI-Disease): Created a **Streamlit web app** to predict the probability of heart disease using the UCI dataset.
+- [Customer Segmentation](https://github.com/AlyModrik41/Customer-Segmentation): Developed a **clustering model** to group customers based on financial and personal features..
+- [Student Performance Predicton](https://github.com/AlyModrik41/Student-Performance-Predictor): Built a **regression model** to predict student grades based on demographic and study-related features.  
+- [UCI Heart Disease Predicton](https://github.com/AlyModrik41/UCI-Disease): Created a **Streamlit web app** to predict the probability of heart disease using the UCI dataset.
 
 ---
 
