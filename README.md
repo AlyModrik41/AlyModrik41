@@ -12,17 +12,16 @@
 ---
 
 ### 🚀 Featured Projects
-- [Stroke Prediction](https://github.com/AlyModrik41/Stroke-Prediction): Built a classification model using SMOTE + Random Forest on medical data (500k+ rows).  
-- [YouTube Data Analysis](your_repo_link): Streamlit app for analyzing and visualizing YouTube data.  
-- [RSA Encryption from Scratch](your_repo_link): Implemented RSA cryptosystem in C# using custom big integer arithmetic.  
+- [Stroke Prediction](https://github.com/AlyModrik41/Stroke-Prediction): Developed a classification model using **SMOTE + Random Forest** on medical data.
+- [Student Performance Predictor](https://github.com/AlyModrik41/Student-Performance-Predictor): Built a **regression model** to predict student grades based on demographic and study-related features.  
+- [UCI-Disease](https://github.com/AlyModrik41/UCI-Disease): Created a **Streamlit web app** to predict the probability of heart disease using the UCI dataset.
 
 ---
 
 ### 🛠️ Tech Stack
 - **Languages:** Python, C++, C#, JavaScript  
 - **ML/DL:** Scikit-Learn, TensorFlow, PyTorch  
-- **Data Tools:** Pandas, NumPy, SQL, Streamlit, Matplotlib  
-- **Other:** Git, Linux, REST APIs  
+- **Data Tools:** Pandas, NumPy, SQL, Streamlit, Matplotlib   
 
 ---
 
@@ -33,7 +32,7 @@
 
 ### 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/alyymahmoud/)  
-- Email: **your.email@example.com**  
+- Email: **ali1972014@gmail.com**  
 
 ---
 ⭐️ *Always curious, always learning — let’s connect and build something awesome together!*
