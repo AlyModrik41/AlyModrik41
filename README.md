@@ -18,7 +18,7 @@
 
 ---
 ### 📄 Portfolio PDF here
-- [Aly_Mahmoud_Portfolio (2).pdf](https://github.com/user-attachments/files/22177432/Aly_Mahmoud_Portfolio.2.pdf)
+- [Aly_Mahmoud_Portfolio.pdf](https://github.com/user-attachments/files/22177432/Aly_Mahmoud_Portfolio.2.pdf)
 
 
 ### 🛠️ Tech Stack
