@@ -17,6 +17,9 @@
 - [UCI Heart Disease Predicton](https://github.com/AlyModrik41/UCI-Disease): Created a **Streamlit web app** to predict the probability of heart disease using the UCI dataset.
 
 ---
+### 📄 Portfolio PDF here
+- [Aly_Mahmoud_Portfolio (2).pdf](https://github.com/user-attachments/files/22177432/Aly_Mahmoud_Portfolio.2.pdf)
+
 
 ### 🛠️ Tech Stack
 - **Languages:** Python, C++, C#, JavaScript  
