@@ -18,7 +18,8 @@
 
 ---
 ### 📄 Portfolio PDF here
-- [Aly_Mahmoud_Portfolio.pdf][CV_Aly Mahmoud.pdf]
+-[CV_Aly Mahmoud.pdf](https://github.com/user-attachments/files/24811968/CV_Aly.Mahmoud.pdf)
+
 
 
 ### 🛠️ Tech Stack
