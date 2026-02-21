@@ -30,7 +30,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Aly's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyModrik41&theme=default&show_icons=true)
+![Aly's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyModrik41&theme=dark&show_icons=true)
 
 ---
 
