@@ -9,11 +9,6 @@
 - Exploring **Deep Learning** and **Computer Vision**  
 - Sharing my learning journey through open-source projects  
 
----
-### 📄 Portfolio PDF here
--[CV_Aly Mahmoud.pdf](https://github.com/user-attachments/files/24811968/CV_Aly.Mahmoud.pdf)
-
-
 
 ### 🛠️ Tech Stack
 - **Languages:** Python, C++, C#, JavaScript  
