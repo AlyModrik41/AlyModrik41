@@ -23,7 +23,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Aly's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyModrik41&theme=solarized-light&show_icons=false)
+![Aly's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyModrik41&theme=midnight-purple&show_icons=false)
 
 ---
 
