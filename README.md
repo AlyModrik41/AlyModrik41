@@ -1,12 +1,12 @@
 # Hi there 👋, I'm Aly Mahmoud  
 
-💻 **CS Undergraduate @ ASU** | 📊 **Aspiring Machine Learning Engineer** | 🤖 **Deep Learning & Computer Vision Enthusiast**
+💻 **CS Undergraduate @ ASU** | 📊 **Aspiring Machine Learning Engineer** | 🤖 **Deep Learning & Agentic AI Enthusiast**
 
 ---
 
 ### 🔭 What I'm Working On
 - Building Machine Learning projects with real-world datasets  
-- Exploring **Deep Learning** and **Computer Vision**  
+- Exploring **Deep Learning** and **Agentic AI**  
 - Sharing my learning journey through open-source projects  
 
 
